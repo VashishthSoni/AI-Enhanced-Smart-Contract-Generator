@@ -88,7 +88,7 @@ Make sure it runs on default port 8545
 ### ✍️ Author
 Vashishth Soni
 Automation & AI Workflow Developer
-![LinkedIn](https://www.linkedin.com/in/vashishthsoni/) • ![GitHub](https://github.com/VashishthSoni)
+<a href="https://www.linkedin.com/in/vashishthsoni/">LinkedIn</a> • <a href="https://github.com/VashishthSoni">GitHub</a>
 
 📄 License
 This project is licensed under the MIT License — feel free to use it with proper attribution.
