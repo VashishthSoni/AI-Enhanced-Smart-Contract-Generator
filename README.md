@@ -72,7 +72,7 @@ Make sure it runs on default port 8545
 ### Generate Contract:
 ![Generate](https://github.com/user-attachments/assets/cce0e32f-d5b2-4659-afd0-adbcafb2ea95)
 
-### Copt Contract:
+### Copy Contract:
 ![Copy](https://github.com/user-attachments/assets/0a9805ee-7fd6-4465-8a7c-9ea1c0df8828)
 
 ### Download:
