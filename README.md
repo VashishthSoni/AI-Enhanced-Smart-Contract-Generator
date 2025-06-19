@@ -37,7 +37,7 @@ $ git clone https://github.com/VashishthSoni/AI-Enhanced-Smart-Contract-Generato
 $ cd AI-Enhanced-Smart-Contract-Generator
 
 ### 2. ackend Setup (Python + Flask)
-$ cd backend
+```cd backend```
 $ python -m venv venv
 $ source venv/bin/activate   # For Windows: venv\Scripts\activate
 $ pip install -r requirements.txt
