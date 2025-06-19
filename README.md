@@ -29,39 +29,24 @@ A full-stack DApp that uses AI to generate, compile, and deploy secure Solidity 
 **AI:** OpenAI GPT (via ChatCompletion API)
 
 ---
-
-## 📁 Project Structure
-
-project/
-├── frontend/ (React UI)
-│ ├── src/
-│ │ └── App.js
-│ └── package.json
-├── backend/
-│ ├── app.py
-│ └── requirements.txt
-├── .env
-└── README.md
-
----
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 
-git clone https://github.com/VashishthSoni/AI-Enhanced-Smart-Contract-Generator.git
-cd AI-Enhanced-Smart-Contract-Generator
+$ git clone https://github.com/VashishthSoni/AI-Enhanced-Smart-Contract-Generator.git
+$ cd AI-Enhanced-Smart-Contract-Generator
 
 ### 2. ackend Setup (Python + Flask)
-cd backend
-python -m venv venv
-source venv/bin/activate   # For Windows: venv\Scripts\activate
-pip install -r requirements.txt
+$ cd backend
+$ python -m venv venv
+$ source venv/bin/activate   # For Windows: venv\Scripts\activate
+$ pip install -r requirements.txt
 
 Create a .env file in the backend folder:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 
-Run the Flask server:
-python app.py
+- Run the Flask server:
+$ python app.py
 
 ### 3. Frontend Setup (React)
 cd frontend
